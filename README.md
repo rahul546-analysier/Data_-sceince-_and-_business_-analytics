@@ -1,2 +1,2 @@
-# Data_-sceince-_and-_business_-analytics
+# Data_-science_and-_business_-analytics
 predicting using linear regression with two variables
